@@ -1,14 +1,17 @@
 ## Hi there 👋
 
-Google Certified Associate Android Developer | #Android, #Kotlin, #Java. Looking for carrier opportunities
+- Google Certified Associate Android Developer | #Android, #Kotlin, #Java. Looking for carrier opportunities
+- ✨ Love to learn and new things ✨ 
 
-## Skills 🔭
-- Android Development
-- Kotlin
-- Java
-- Dagger . Koin . Kodin
-- MVVM . MPV . MVC
-- Espresso . Junit . Mokito
+### Skills 🔭
+- Android Development 📱
+- Kotlin 
+- Java ☕
+- Dagger ⚬ Koin ⚬ Kodin 💉
+- MVVM ⚬ MPV ⚬ MVC 👷
+- Espresso ⚬ Junit ⚬ Mokito ☕
+- Node.js 
+- TypeScript 📜
 - ...
 
 📫 How to reach me: https://arpan.dev

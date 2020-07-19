@@ -5,12 +5,12 @@
 
 ### Skills 🔭
 - Android Development 📱
-- Kotlin 
+- Kotlin 😄
 - Java ☕
 - Dagger ⚬ Koin ⚬ Kodin 💉
 - MVVM ⚬ MPV ⚬ MVC 👷
 - Espresso ⚬ Junit ⚬ Mokito ☕
-- Node.js 
+- Node.js ⚡
 - TypeScript 📜
 - ...
 

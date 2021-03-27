@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://media0.giphy.com/media/Lmy23L3RkJ0sEWokRN/giphy.gif" width="20%">
+</p>
 ## Hi there 👋
 
 - Google Certified Associate Android Developer | #Android, #Kotlin, #Java. Looking for carrier opportunities
@@ -16,17 +19,6 @@
 
 📫 How to reach me: https://arpan.dev
 
-<!--
-**Bloody-Badboy/Bloody-Badboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Github stats](https://github-readme-stats.vercel.app/api?username=bloody-badboy&show_icons=true)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Profile views](https://gpvc.arturio.dev/bloody-badboy)

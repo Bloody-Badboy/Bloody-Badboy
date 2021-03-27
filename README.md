@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://media0.giphy.com/media/Lmy23L3RkJ0sEWokRN/giphy.gif" width="20%">
 </p>
+
 ## Hi there 👋
 
 - Google Certified Associate Android Developer | #Android, #Kotlin, #Java. Looking for carrier opportunities

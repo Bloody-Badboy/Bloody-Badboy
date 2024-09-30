@@ -24,4 +24,4 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=bloody-badboy&show_icons=true)
 
-![Profile views](https://gpvc.arturio.dev/bloody-badboy)
+![Profile views](https://komarev.com/ghpvc/?username=bloody-badboy&color=green)

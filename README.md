@@ -18,8 +18,6 @@
 - TypeScript 📜
 - ...
 
-📫 How to reach me: https://arpan.dev
-
 ![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bloody-Badboy)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=bloody-badboy&show_icons=true)
